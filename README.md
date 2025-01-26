@@ -1,7 +1,8 @@
 # Health-care-Dashboard Live
 https://app.powerbi.com/view?r=eyJrIjoiMzdiZmJkMmUtOGRhZi00Y2MzLWJmYTQtYTgwMTMwYTYzZmQyIiwidCI6IjVkMGFhNmVhLTY2MjAtNDg2My05ZTIxLTllY2IxNDAyMjJiYyIsImMiOjh9
-Header Section:
 
+
+Header Section:
 Hospital Name and Workflow Type: The title "Apollo Hospital: Work and Leads Workflow" clearly defines the scope.
 KPIs:
 Admit Date
